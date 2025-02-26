@@ -73,7 +73,7 @@ function PlantDetectorApp({ navigation }) {
         formData,
         {
           headers: {
-            'Api-Key': 'Fn8Om56VUKVaVnyshzDapIgnyjTGmW8qwLZtfUxG3dzVm83KxG',
+            'Api-Key': '---',
             'Content-Type': 'multipart/form-data',
           },
         }
