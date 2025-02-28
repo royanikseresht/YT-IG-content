@@ -121,6 +121,7 @@ function PlantDetectorApp({ navigation }) {
   );
 }
 
+
 const Stack = createStackNavigator();
 
 export default function App() {
