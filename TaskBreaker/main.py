@@ -6,6 +6,7 @@ from pydantic import BaseModel, field_validator
 from dotenv import load_dotenv
 import logging
 
+
 # Load Hugging Face API Key
 load_dotenv()
 HF_API_KEY = os.getenv("HF_API_KEY")
